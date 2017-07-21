@@ -9,5 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface APIManager : NSObject
+    
+- (void)say;
 
 @end

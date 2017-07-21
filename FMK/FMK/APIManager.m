@@ -7,8 +7,12 @@
 //
 
 #import "APIManager.h"
-#import "AFNetworking.h"
+//#import "AFNetworking.h"
 
 @implementation APIManager
+    
+- (void)say {
+    
+}
 
 @end
